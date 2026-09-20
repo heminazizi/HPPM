@@ -1,5 +1,5 @@
 # HPPM — Hemin Python Project Manager
-ش
+
 > **A lightweight, single-file project manager for local Python and Jupyter projects.**
 
 HPPM (Hemin Python Project Manager) is a lightweight tool designed to simplify the creation and management of local **Python and Jupyter projects**.
