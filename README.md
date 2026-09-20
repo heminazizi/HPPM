@@ -1,3 +1,4 @@
+![HPPM Banner](./assets/hppm-banner.svg)
 # HPPM — Hemin Python Project Manager
 
 > **A lightweight, single-file project manager for local Python and Jupyter projects.**
